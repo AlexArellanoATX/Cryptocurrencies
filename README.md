@@ -9,8 +9,11 @@ This project was undertaken to analyze a dataset of cryptocurrencies to help an 
 * Jupyter Notebook
 * VS Code 
 * Machine Leaning library modules:
-    * scikit learn preprocessing, decomposition and cluster modules
-* Main functions:
+    * scikit learn preprocessing
+    * scikit learn decomposition 
+    * scikit learn cluster 
+
+* Main functions/algorithms:
     * StandardScaler 
     * MinMaxScaler
     * PCA
@@ -24,7 +27,7 @@ We plot an Elbow Curve to determine an optimal number of dimensions (in this cas
 This 3D Scatterplot shows the groupings of the 4 clusters and PCA classes:
 ![3D_scatterplot](./Resources/3D_scatterplot.png) 
 
-The tradable cryotocurrency data and PCA component valyes are displayed in tabular form:
+The tradable cryotocurrency data and PCA component values are displayed in tabular form:
 ![table](./Resources/table.png) 
 
 
